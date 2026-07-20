@@ -1,4 +1,5 @@
 using EmployeeManagement.Api.Data;
+using EmployeeManagement.Api.Middleware;
 using EmployeeManagement.Api.Service;
 using EmployeeManagement.Api.Service.Interface;
 using Microsoft.EntityFrameworkCore;
@@ -49,6 +50,8 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseCors("AllowEmployeeApp");
+
+app.UseMiddleware<GlobalExceptionMiddleware>();
 
 app.MapControllers();
 
