@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DM3HsmLGyxI=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Interview\\Ninja_L_2\\Backend\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nares\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\nares\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\nares\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

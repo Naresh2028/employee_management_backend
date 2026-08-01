@@ -1,0 +1,17 @@
+D:\Projects\Interview\Ninja_L_2\Backend\EmployeeManagements.Application\bin\Debug\net8.0\EmployeeManagements.Application.deps.json
+D:\Projects\Interview\Ninja_L_2\Backend\EmployeeManagements.Application\bin\Debug\net8.0\EmployeeManagements.Application.runtimeconfig.json
+D:\Projects\Interview\Ninja_L_2\Backend\EmployeeManagements.Application\bin\Debug\net8.0\EmployeeManagements.Application.dll
+D:\Projects\Interview\Ninja_L_2\Backend\EmployeeManagements.Application\bin\Debug\net8.0\EmployeeManagements.Application.pdb
+D:\Projects\Interview\Ninja_L_2\Backend\EmployeeManagements.Application\bin\Debug\net8.0\EmployeeManagement.Domain.dll
+D:\Projects\Interview\Ninja_L_2\Backend\EmployeeManagements.Application\bin\Debug\net8.0\EmployeeManagement.Domain.pdb
+D:\Projects\Interview\Ninja_L_2\Backend\EmployeeManagements.Application\obj\Debug\net8.0\EmployeeManagements.Application.csproj.AssemblyReference.cache
+D:\Projects\Interview\Ninja_L_2\Backend\EmployeeManagements.Application\obj\Debug\net8.0\EmployeeManagements.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Interview\Ninja_L_2\Backend\EmployeeManagements.Application\obj\Debug\net8.0\EmployeeManagements.Application.AssemblyInfoInputs.cache
+D:\Projects\Interview\Ninja_L_2\Backend\EmployeeManagements.Application\obj\Debug\net8.0\EmployeeManagements.Application.AssemblyInfo.cs
+D:\Projects\Interview\Ninja_L_2\Backend\EmployeeManagements.Application\obj\Debug\net8.0\EmployeeManagements.Application.csproj.CoreCompileInputs.cache
+D:\Projects\Interview\Ninja_L_2\Backend\EmployeeManagements.Application\obj\Debug\net8.0\Employee.0893C2C6.Up2Date
+D:\Projects\Interview\Ninja_L_2\Backend\EmployeeManagements.Application\obj\Debug\net8.0\EmployeeManagements.Application.dll
+D:\Projects\Interview\Ninja_L_2\Backend\EmployeeManagements.Application\obj\Debug\net8.0\refint\EmployeeManagements.Application.dll
+D:\Projects\Interview\Ninja_L_2\Backend\EmployeeManagements.Application\obj\Debug\net8.0\EmployeeManagements.Application.pdb
+D:\Projects\Interview\Ninja_L_2\Backend\EmployeeManagements.Application\obj\Debug\net8.0\EmployeeManagements.Application.genruntimeconfig.cache
+D:\Projects\Interview\Ninja_L_2\Backend\EmployeeManagements.Application\obj\Debug\net8.0\ref\EmployeeManagements.Application.dll
